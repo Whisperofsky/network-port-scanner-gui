@@ -34,4 +34,14 @@ Run the program from your project folder:
 
 ### Scan Results
 ![Results GUI](gui_results.png)
+
+---
+
+## 📊 Example Output File
+
+Here is a sample saved results file (`results_scanme.txt`):
+Port 22 is open Port 80 is open
+
+
+
 python portscanergui.py
