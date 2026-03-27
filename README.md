@@ -24,4 +24,14 @@ This project was created as part of an internship to demonstrate practical netwo
 ## 🚀 Usage
 Run the program from your project folder:
 ```bash
+
+---
+
+## 📸 Screenshots
+
+### GUI Interface
+![Blank GUI](gui_blank.png)
+
+### Scan Results
+![Results GUI](gui_results.png)
 python portscanergui.py
