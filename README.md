@@ -27,21 +27,13 @@ Run the program from your project folder:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-### GUI Interface
-![Blank GUI](gui_blank.png)
+### GUI Interface  
+![Blank GUI](gui_blank.png)  
 
-### Scan Results
-![Results GUI](gui_results.png)
+### Scan Results  
+![Results GUI](gui_results.png)  
 
 ---
-
-## 📊 Example Output File
-
-Here is a sample saved results file (`results_scanme.txt`):
-Port 22 is open Port 80 is open
-
-
-
 python portscanergui.py
