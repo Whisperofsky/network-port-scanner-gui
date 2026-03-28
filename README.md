@@ -38,4 +38,11 @@ python portscanergui.py
 
 ---
 
+## 📊 Example Output File
+
+Here is a sample saved results file (`scan_results.txt`):
+Port 22 is open Port 80 is open
+
+
+
 
