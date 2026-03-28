@@ -25,7 +25,7 @@ This project was created as part of an internship to demonstrate practical netwo
 Run the program from your project folder:
 ```bash
 python portscanergui.py
-
+```
 ---
 
 ## 📸 Screenshots  
