@@ -43,6 +43,12 @@ python portscanergui.py
 Here is a sample saved results file (`scan_results.txt`):
 Port 22 is open Port 80 is open
 
+---
+
+## ⚠️ Disclaimer  
+Use this tool only on networks you own or have explicit permission to scan.  
+Unauthorized scanning may violate laws or organizational policies.
+
 
 
 
