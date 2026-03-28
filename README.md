@@ -39,7 +39,7 @@ Run the program from your project folder:
 
 ## 📊 Example Output File
 
-Here is a sample saved results file (`results_scanme.txt`):
+Here is a sample saved results file (`scan_results.txt`):
 Port 22 is open Port 80 is open
 
 
