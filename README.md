@@ -24,16 +24,17 @@ This project was created as part of an internship to demonstrate practical netwo
 ## 🚀 Usage
 Run the program from your project folder:
 ```bash
+python portscanergui.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-### GUI Interface
-![Blank GUI](gui_blank.png)
+### GUI Interface  
+![Blank GUI](gui_blank.png)  
 
-### Scan Results
-![Results GUI](gui_results.png)
+### Scan Results  
+![Results GUI](gui_results.png)  
 
 ---
 
@@ -44,4 +45,4 @@ Port 22 is open Port 80 is open
 
 
 
-python portscanergui.py
+
