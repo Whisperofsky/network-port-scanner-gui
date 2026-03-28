@@ -40,6 +40,7 @@ Run the program from your project folder:
 
 ## 📁 Example Output File  
 
-Here is a sample saved results file (`scan_results.txt`):  
+Here is a sample saved results file (`scan_results.txt`):
+--- 
 
 python portscanergui.py
